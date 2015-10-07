@@ -1,3 +1,3 @@
 # Commit by Takaya
 
-This is really bad.
+This is really good.
